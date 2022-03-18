@@ -1,32 +1,37 @@
-# 甲
+./心理.html
 
-## 黄龙禅师-吕洞宾
+./价值观.html
 
-<iframe src="https://player.bilibili.com/player.html?bvid=BV1E7411w7ZA&page=1&as_wide=1&high_quality=1&danmaku=0"allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
-# 乙
+./全息分形宇宙.html
 
-## 吕洞宾-荣格
+./哈索尔之书.html
 
-<iframe src="https://player.bilibili.com/player.html?bvid=BV1di4y1b7La&page=1&as_wide=1&high_quality=1&danmaku=0"allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+./唐李问对.html
 
+./如何创建一门学科.html
 
-## 荣格-Jordan Peterson
+./宗教.html
 
-<iframe src="https://player.bilibili.com/player.html?bvid=BV1pb411674T&page=1&as_wide=1&high_quality=1&danmaku=0"  allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+./广武君略.html
 
-## Jordan Peterson-特朗普（2017）
+./思想.html
 
-<iframe src="https://player.bilibili.com/player.html?bvid=BV17C4y1a7dB&page=1&as_wide=1&high_quality=1&danmaku=0"  allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+./性教育.html
 
-## 特朗普-西部战区
+./意识学.html
 
-<iframe src="https://player.bilibili.com/player.html?bvid=BV1H54y1U7NX&page=1&as_wide=1&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+./意识容器.html
 
-# 丙
+./意识形态.html
 
-## 海灵格
+./扬升书-神圣六步骤.html
 
-海灵格说： 他只是用系统排列的方法将老子与孔子阐述的智慧具象化 的呈现在大众面前。系统排列的根在中国！ 生命的五大法则：整体法则、序位法则、平衡法则、事实法则、流动 法则。 系统排列的的精髓是——带着无为的爱，为生命服务。 
+./生命的层级.html
 
-<iframe src="https://player.bilibili.com/player.html?bvid=BV1yt411Y7Vo&page=1&as_wide=1&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+./生命的本质.html
 
+./素书.html
+
+./自学的方法.html
+
+./远东大师的生活与教导.html
