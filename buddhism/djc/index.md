@@ -1,5 +1,7 @@
 # Namo Dorje Chang 3
 
+[极圣解脱大手印](namo-djc3-极圣解脱大手印（横版）.pdf)
+
 [namo-djc3-世法哲言](namo-djc3-世法哲言)
 
 [namo-djc3-了义佛旨](namo-djc3-了义佛旨)
