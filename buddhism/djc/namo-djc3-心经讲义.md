@@ -2,9 +2,9 @@
 
 第三世多杰羌佛以三昧境界、智慧之用深入空性真谛实相真如之理而对《般若波罗密多心经》所作之释解开示，其理精辟无误，被高僧们共推为法中真宝。
 
-![](https://s2.loli.net/2022/03/31/gLwnJ61GqkRTSBV.png)
+![](https://cdn.jsdelivr.net/gh/gxlist/image/%E8%88%AC%E8%8B%A5%E6%B3%A2%E7%BD%97%E5%AF%86%E5%A4%9A%E5%BF%83%E7%BB%8F%E8%AE%B2%E4%B9%89/202204171314196.png)
 
-![](https://s2.loli.net/2022/03/31/4aQs1oEvN2VguIO.png)
+![](https://cdn.jsdelivr.net/gh/gxlist/image/%E8%88%AC%E8%8B%A5%E6%B3%A2%E7%BD%97%E5%AF%86%E5%A4%9A%E5%BF%83%E7%BB%8F%E8%AE%B2%E4%B9%89/202204171314984.png)
 
 - [般若波罗密多心经讲义](#般若波罗密多心经讲义)
   - [再版序](#再版序)
