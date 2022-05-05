@@ -6,7 +6,7 @@
   - [返老回春成事实](#返老回春成事实-1)
   - [附图](#附图)
 
-![](https://s2.loli.net/2022/04/07/ADRVtLYGJSp2zn1.png)
+![](https://cdn.jsdelivr.net/gh/gxlist/image/返老回春成事实/202204171315858.png)
 
 ## 联合国际世界佛教总部的说明
 

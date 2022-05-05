@@ -16,6 +16,8 @@
 
 [namo-djc3-圣者不是自己和弟子说了算的](namo-djc3-圣者不是自己和弟子说了算的)
 
+[namo-djc3-学佛](namo-djc3-学佛)
+
 [namo-djc3-心动著境即是魔，随缘分别则无定](namo-djc3-心动著境即是魔，随缘分别则无定)
 
 [namo-djc3-心经讲义](namo-djc3-心经讲义)
