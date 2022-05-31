@@ -30,6 +30,8 @@
 
 [namo-djc3-禅修大法](namo-djc3-禅修大法)
 
+[namo-djc3-藉心经说真谛](namo-djc3-藉心经说真谛)
+
 [namo-djc3-行持基本德行](namo-djc3-行持基本德行)
 
 [namo-djc3-返老回春成事实](namo-djc3-返老回春成事实)
